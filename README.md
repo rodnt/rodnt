@@ -8,6 +8,6 @@
 - - ✔️ Reversing   ### 
 * Find me around the world 🌍 
 - - Twitter : [@rodnt_](https://twitter.com/rodnt_) 
-- - LinkedIn : [Rodolfo Augusto](https://www.linkedin.com/in/rodolfo-augusto/) 
+- - LinkedIn : [Rodolfo Augusto](https://linkedin.com/in/rodolfo-augusto-543863a7) 
 - - Email : [0xrodnt@gmail.com](0xrodnt@gmail.com)  
 - ![](https://komarev.com/ghpvc/?username=rodnt&color=brightgreen)
