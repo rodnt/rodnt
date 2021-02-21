@@ -5,7 +5,7 @@
 - - ✔️ Networking  
 - - ✔️ Python,Javascript,C/C++ 
 - - ✔️ Automating boring tasks with programming  
-- - ✔️ Reversing   ### 
+- - ✔️ Reversing  
 * Find me around the world 🌍 
 - - Twitter : [@rodnt_](https://twitter.com/rodnt_) 
 - - LinkedIn : [Rodolfo Augusto](https://linkedin.com/in/rodolfo-augusto-543863a7) 
