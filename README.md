@@ -9,7 +9,7 @@
   <br><br />
   <a href="https://twitter.com/rodnt_"><img alt="Website" src="https://img.shields.io/twitter/follow/rodnt_.svg?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/rodolfo-augusto-543863a7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rodolfo%20tavares-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://rodnt.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-rodnt.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://rodnt.dev"><img alt="Website" src="https://img.shields.io/badge/Website-rodnt.dev-blue?style=flat-square&logo=google-chrome"></a>
 <br />
 
 #### MISC
