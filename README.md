@@ -15,7 +15,7 @@
 <summary> <b> <samp> More about me! : </samp></b></summary>
 <samp>
 
-My name is Rodolfo Tavares, Web developer, Mobile application developer 🇧🇷
+My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from 🇧🇷  <=
 
   
 ## Languages
@@ -44,7 +44,7 @@ My name is Rodolfo Tavares, Web developer, Mobile application developer 🇧🇷
 
 <p align="center">
 <a href="https://twitter.com/rodnt_"><img alt="Website" src="https://img.shields.io/twitter/follow/rodnt_.svg?style=flat-square&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/rodolfo-augusto-543863a7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rodolfo-augusto-543863a7-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rodolfo-augusto-543863a7/"><img alt="LinkedIn" src="https://img.shields.io/badge//LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
 <a href="https://grodriket.com/"><img alt="Website" src="https://img.shields.io/badge/Website-rodnt.dev-blue?style=flat-square&logo=google-chrome"></a>
 </p>
 <br />
