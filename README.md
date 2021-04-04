@@ -29,10 +29,6 @@ My name is Rodolfo Tavares, Web developer, Mobile application developer 🇧🇷
 <br />
 
 
-### Research Profile   
-- Packet Storm profile
-  - https://packetstormsecurity.com/files/author/14480/
-
 ### CVEs 
 <a href="https://nvd.nist.gov/vuln/detail/CVE-2020-35581"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.35581-000000?style=flat&logo=CVE"></a>
 <a href="https://nvd.nist.gov/vuln/detail/CVE-2020-35582"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.35582-000000?style=flat&logo=CVE"></a>
