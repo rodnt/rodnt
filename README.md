@@ -31,7 +31,7 @@ My name is Rodolfo Tavares, Web developer, Mobile application developer 🇧🇷
 
 ### Research Profile   
 - Packet Storm profile
-- https://packetstormsecurity.com/files/author/14480/
+  - https://packetstormsecurity.com/files/author/14480/
 
 ### CVEs 
 <a href="https://nvd.nist.gov/vuln/detail/CVE-2020-35581"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.35581-000000?style=flat&logo=CVE"></a>
@@ -42,11 +42,6 @@ My name is Rodolfo Tavares, Web developer, Mobile application developer 🇧🇷
 <a href="https://nvd.nist.gov/vuln/detail/CVE-2019-13364"><img alt="Website" src="https://img.shields.io/badge/CVE.2019.13364-000000?style=flat&logo=CVE"></a>
 
 
-- Hall of Fame (rodolfo tavares, rod tav)
-  - https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
-  - https://www.informatica.com/trust-center/security-researcher-hall-of-fame.html
-
-  
 ### You can find me on! 
 <br />
 
@@ -67,3 +62,8 @@ My name is Rodolfo Tavares, Web developer, Mobile application developer 🇧🇷
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodnt&hide_title=true&show_icons=true&theme=vue-dark" />
 </p>
  
+
+
+ Hall of Fame (rodolfo tavares, rod tav)
+- https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
+- https://www.informatica.com/trust-center/security-researcher-hall-of-fame.html
