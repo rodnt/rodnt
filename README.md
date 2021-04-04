@@ -65,6 +65,6 @@ My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from ðŸ‡
 - https://www.informatica.com/trust-center/security-researcher-hall-of-fame.html
 
 
-##### Research Profile   
+##### Security Research Profile   
 * Packet Storm profile
 	- https://packetstormsecurity.com/files/author/14480/
