@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://rodnt.dev/">Rodolfo 'rodnt' Tavares</a></b>.
-    <br>I'm a infosec guy =P and noob to<br>
+    <br>I'm a infosec script kiddie =)<br>
 
 </samp>
 
