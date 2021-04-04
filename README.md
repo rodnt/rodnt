@@ -69,6 +69,6 @@ My name is Rodolfo Tavares, Web developer, Mobile application developer 🇧🇷
 - https://www.informatica.com/trust-center/security-researcher-hall-of-fame.html
 
 
-##### Security Research Profile   
-- Packet Storm profile
-- https://packetstormsecurity.com/files/author/14480/
+##### Research Profile   
+* Packet Storm profile
+	- https://packetstormsecurity.com/files/author/14480/
