@@ -67,3 +67,8 @@ My name is Rodolfo Tavares, Web developer, Mobile application developer 🇧🇷
 ##### Hall of Fame (rodolfo tavares, rod tav)
 - https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
 - https://www.informatica.com/trust-center/security-researcher-hall-of-fame.html
+
+
+##### Security Research Profile   
+- Packet Storm profile
+- https://packetstormsecurity.com/files/author/14480/
