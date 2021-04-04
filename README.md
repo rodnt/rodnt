@@ -33,7 +33,6 @@ My name is Rodolfo Tavares, Web developer, Mobile application developer 🇧🇷
 - Packet Storm profile
   - https://packetstormsecurity.com/files/author/14480/
 
-CVES
   - Wordpress Plugin
     - Envira Gallery – Lite Edition – Version 1.8.3.2 CVE-2020-35581 CVE-2020-35582
   - Typesetter CMS
