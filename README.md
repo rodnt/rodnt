@@ -28,19 +28,19 @@ My name is Rodolfo Tavares, Web developer, Mobile application developer 🇧🇷
 <br />
 <br />
 
-  
-### CVEs 
+
+### Research Profile   
 - Packet Storm profile
   - https://packetstormsecurity.com/files/author/14480/
 
-  - Wordpress Plugin
-    - Envira Gallery – Lite Edition – Version 1.8.3.2 CVE-2020-35581 CVE-2020-35582
-  - Typesetter CMS
-    - Typesetter CMS 5.1 Remote Code Execution - CVE-2020-25790 ( https://www.exploit-db.com/exploits/48906 )
-  - GilaCMS
-    - GilaCMS 1.11.5 Cross Site Request Forgery / Cross Site Scripting  - CVE-2019-13364 CVE-2019-13363
-  - Piwigo
-    - Piwigo 2.9.5 Cross Site Request Forgery / Cross Site Scripting - CVE-2019-13364 CVE-2019-13363
+### CVEs 
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2020-35581"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.35581-000000?style=flat&logo=CVE"></a>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2020-35582"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.35582-000000?style=flat&logo=CVE"></a>
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25790"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.25790-000000?style=flat&logo=CVE"></a>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2019-13364"><img alt="Website" src="https://img.shields.io/badge/CVE.2019.13364-000000?style=flat&logo=CVE"></a>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2019-13363"><img alt="Website" src="https://img.shields.io/badge/CVE.2019.13363-000000?style=flat&logo=CVE"></a>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2019-13364"><img alt="Website" src="https://img.shields.io/badge/CVE.2019.13364-000000?style=flat&logo=CVE"></a>
+
 
 Hall of Fame (rodolfo tavares, rod tav)
   - https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
