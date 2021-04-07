@@ -29,7 +29,8 @@ My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from ðŸ‡
 <br />
 
 
-### CVEs 
+### CVEs
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2021-30140"><img alt="Website" src="https://img.shields.io/badge/CVE.2021.30140-000000?style=flat&logo=CVE"></a>
 <a href="https://nvd.nist.gov/vuln/detail/CVE-2020-35581"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.35581-000000?style=flat&logo=CVE"></a>
 <a href="https://nvd.nist.gov/vuln/detail/CVE-2020-35582"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.35582-000000?style=flat&logo=CVE"></a>
 <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25790"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.25790-000000?style=flat&logo=CVE"></a>
