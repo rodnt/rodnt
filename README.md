@@ -44,7 +44,7 @@ My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from ğŸ‡
 
 
 <p align="center">
-<a href="https://twitter.com/rodnt_"><img alt="Website" src="https://img.shields.io/twitter/follow/rodnt_.svg?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/0xc4t"><img alt="Website" src="https://img.shields.io/twitter/follow/0xc4t.svg?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/rodolfo-augusto-543863a7"><img alt="LinkedIn" src="https://img.shields.io/badge//LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
 <a href="https://grodriket.com/"><img alt="Website" src="https://img.shields.io/badge/Website-rodnt.dev-blue?style=flat-square&logo=google-chrome"></a>
 </p>
@@ -56,7 +56,7 @@ My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from ğŸ‡
 
 <p align="center"> 
   <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodnt&hide_title=true&show_icons=true&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xc4t&hide_title=true&show_icons=true&theme=vue-dark" />
 </p>
  
 ##### Exploits written
