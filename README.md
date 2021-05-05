@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://rodnt.dev/">Rodolfo '0xc4t' Tavares</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://rodnt.dev/">Rodolfo 'b4ruiO' Tavares</a></b>.
     <br>I'm a infosec n00b <br>
 
 </samp>
@@ -15,7 +15,7 @@
 <summary> <b> <samp> More about me! : </samp></b></summary>
 <samp>
 
-My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from 🇧🇷  <=
+My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from PE|🇧🇷  <=
 
   
 ## Languages
@@ -44,7 +44,7 @@ My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from �
 
 
 <p align="center">
-<a href="https://twitter.com/0xc4t"><img alt="Website" src="https://img.shields.io/twitter/follow/0xc4t.svg?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/b4ruiO"><img alt="Website" src="https://img.shields.io/twitter/follow/b4ruiO.svg?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/rodolfo-augusto-543863a7"><img alt="LinkedIn" src="https://img.shields.io/badge//LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
 <a href="https://grodriket.com/"><img alt="Website" src="https://img.shields.io/badge/Website-rodnt.dev-blue?style=flat-square&logo=google-chrome"></a>
 </p>
