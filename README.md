@@ -56,7 +56,7 @@ My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from PE|
 
 <p align="center"> 
   <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xc4t&hide_title=true&show_icons=true&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=b4ruiO&hide_title=true&show_icons=true&theme=vue-dark" />
 </p>
  
 ##### Exploits written
