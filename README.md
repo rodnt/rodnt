@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://rodnt.dev/">Rodolfo 'b4ruiO' Tavares</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://rodnt.dev/">Rodolfo '0xrod' Tavares</a></b>.
     <br>I'm a infosec n00b <br>
 
 </samp>
@@ -44,7 +44,7 @@ My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from PE|
 
 
 <p align="center">
-<a href="https://twitter.com/b4ruiO"><img alt="Website" src="https://img.shields.io/twitter/follow/b4ruiO.svg?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/0xrod"><img alt="Website" src="https://img.shields.io/twitter/follow/0xrod.svg?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/rodolfo-augusto-543863a7"><img alt="LinkedIn" src="https://img.shields.io/badge//LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
 <a href="https://grodriket.com/"><img alt="Website" src="https://img.shields.io/badge/Website-rodnt.dev-blue?style=flat-square&logo=google-chrome"></a>
 </p>
@@ -56,7 +56,7 @@ My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from PE|
 
 <p align="center"> 
   <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=b4ruiO&hide_title=true&show_icons=true&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xrod&hide_title=true&show_icons=true&theme=vue-dark" />
 </p>
  
 ##### Exploits written
