@@ -46,7 +46,7 @@ My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from PE|
 <p align="center">
 <a href="https://twitter.com/0xrod"><img alt="Website" src="https://img.shields.io/twitter/follow/0xrod.svg?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/rodolfo-augusto-543863a7"><img alt="LinkedIn" src="https://img.shields.io/badge//LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
-<a href="https://grodriket.com/"><img alt="Website" src="https://img.shields.io/badge/Website-rodnt.dev-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://0xrod.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-rodnt.dev-blue?style=flat-square&logo=google-chrome"></a>
 </p>
 <br />
 
