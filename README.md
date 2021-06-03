@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/0xrod"> Rodolfo '0xrod' Tavares</a></b>.
-    <br>I'm a infosec lamm3r ;] <br>
+    <br>I'm a infosec lamm3r :] <br>
 
 </samp>
 
