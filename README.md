@@ -24,6 +24,7 @@ My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from PE|
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![GoLang](https://img.shields.io/badge/-GoLang-000000?style=flat&logo=Go)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=Ruby)											  
 
 <br />
 <br />
@@ -59,8 +60,6 @@ My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from PE|
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xrod&hide_title=true&show_icons=true&theme=vue-dark" />
 </p>
  
-##### Exploits written
-	- https://www.exploit-db.com/exploits/48906
 
 ##### Hall of Fame (rodolfo tavares, rod tav)
 - https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
