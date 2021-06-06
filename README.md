@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/0xrod"> Rodolfo '0xrod' Tavares</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/r00td3v"> Rodolfo 'r00td3v' Tavares</a></b>.
     <br>I'm a infosec lamm3r :] <br>
 
 </samp>
@@ -45,9 +45,9 @@ My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from PE|
 
 
 <p align="center">
-<a href="https://twitter.com/0xrod"><img alt="Website" src="https://img.shields.io/twitter/follow/0xrod.svg?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/r00td3v"><img alt="Website" src="https://img.shields.io/twitter/follow/0xrod.svg?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/rodolfo-augusto-543863a7"><img alt="LinkedIn" src="https://img.shields.io/badge//LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
-<a href="https://0xrod.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-rodnt.dev-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://r00td3v.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-r00td3v.dev-blue?style=flat-square&logo=google-chrome"></a>
 </p>
 <br />
 
@@ -57,7 +57,7 @@ My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from PE|
 
 <p align="center"> 
   <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xrod&hide_title=true&show_icons=true&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=r00td3v&hide_title=true&show_icons=true&theme=vue-dark" />
 </p>
  
 
