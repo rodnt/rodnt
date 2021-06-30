@@ -60,6 +60,8 @@ My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from PE|
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=r00td3v&hide_title=true&show_icons=true&theme=vue-dark" />
 </p>
  
+##### Blog
+- https://r00td3v.github.io/
 
 ##### Hall of Fame (rodolfo tavares, rod tav)
 - https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
