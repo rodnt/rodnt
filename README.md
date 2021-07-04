@@ -15,7 +15,7 @@
 <summary> <b> <samp> More about me! : </samp></b></summary>
 <samp>
 
-My name is Rodolfo Tavares =>  dev | Web Mobile | pentester | appsec  | from PE|🇧🇷  <=
+My name is Rodolfo Tavares =>  Dev | Web Mobile | Pentester | Appsec  | from PE 🇧🇷  <=
 
   
 ## Languages
