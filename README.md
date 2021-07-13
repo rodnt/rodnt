@@ -45,9 +45,9 @@ My name is Rodolfo Tavares =>  Dev | Web Mobile | Pentester | Appsec  | from PE 
 
 
 <p align="center">
-<a href="https://twitter.com/r00td3v"><img alt="Website" src="https://img.shields.io/twitter/follow/r00td3v.svg?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/rodntt"><img alt="Website" src="https://img.shields.io/twitter/follow/rodntt.svg?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/rodolfo-augusto-543863a7"><img alt="LinkedIn" src="https://img.shields.io/badge//LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
-<a href="https://r00td3v.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-r00td3v.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://rodnt.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-rodnt.github.io-blue?style=flat-square&logo=google-chrome"></a>
 </p>
 <br />
 
@@ -57,11 +57,11 @@ My name is Rodolfo Tavares =>  Dev | Web Mobile | Pentester | Appsec  | from PE 
 
 <p align="center"> 
   <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=r00td3v&hide_title=true&show_icons=true&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodnt&hide_title=true&show_icons=true&theme=vue-dark" />
 </p>
  
 ##### Blog
-- https://r00td3v.github.io/
+- https://rodnt.github.io/
 
 ##### Hall of Fame (rodolfo tavares, rod tav)
 - https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
