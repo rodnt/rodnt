@@ -21,7 +21,6 @@
 
 
 <p align="center">
-<strong> My name is Rodolfo Tavares </strong>
 <br>
 Dev | Web Mobile | Pentester | Appsec | from PE 🇧🇷 
 </p>						  
