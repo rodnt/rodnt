@@ -1,72 +1,50 @@
+
+<p align="center">
+  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif">
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/d3ftx"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/byt3bl33d3r"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rodolfo-augusto-543863a7"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/rodnt"> Rodolfo 'rodnt' Tavares</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/d3ftx"> Rodolfo 'd3ftx' Tavares</a></b>.
     <br>I'm a infosec Wannabe :] <br>
 
-</samp>
-
-</p>
-
-
-<details align="center">
-
-<summary> <b> <samp> More about me! : </samp></b></summary>
-<samp>
-
-My name is Rodolfo Tavares =>  Dev | Web Mobile | Pentester | Appsec  | from PE 🇧🇷  <=
-
-  
-## Languages
-
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![GoLang](https://img.shields.io/badge/-GoLang-000000?style=flat&logo=Go)
-![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=Ruby)											  
-
-<br />
-<br />
-
-
-### CVEs
-<a href="https://nvd.nist.gov/vuln/detail/CVE-2021-30140"><img alt="Website" src="https://img.shields.io/badge/CVE.2021.30140-000000?style=flat&logo=CVE"></a>
-<a href="https://nvd.nist.gov/vuln/detail/CVE-2020-35581"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.35581-000000?style=flat&logo=CVE"></a>
-<a href="https://nvd.nist.gov/vuln/detail/CVE-2020-35582"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.35582-000000?style=flat&logo=CVE"></a>
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25790"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.25790-000000?style=flat&logo=CVE"></a>
-<a href="https://nvd.nist.gov/vuln/detail/CVE-2019-13364"><img alt="Website" src="https://img.shields.io/badge/CVE.2019.13364-000000?style=flat&logo=CVE"></a>
-<a href="https://nvd.nist.gov/vuln/detail/CVE-2019-13363"><img alt="Website" src="https://img.shields.io/badge/CVE.2019.13363-000000?style=flat&logo=CVE"></a>
-<a href="https://nvd.nist.gov/vuln/detail/CVE-2019-13364"><img alt="Website" src="https://img.shields.io/badge/CVE.2019.13364-000000?style=flat&logo=CVE"></a>
-
-
-### You can find me on! 
-<br />
 
 
 <p align="center">
-<a href="https://twitter.com/rodntt"><img alt="Website" src="https://img.shields.io/twitter/follow/rodntt.svg?style=flat-square&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/rodolfo-augusto-543863a7"><img alt="LinkedIn" src="https://img.shields.io/badge//LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
-<a href="https://rodnt.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-rodnt.github.io-blue?style=flat-square&logo=google-chrome"></a>
-</p>
+<strong> My name is Rodolfo Tavares </strong>
+<br>
+Dev | Web Mobile | Pentester | Appsec | from PE 🇧🇷 
+</p>						  
 <br />
-
-
-</samp>
-</details>
-
-<p align="center"> 
-  <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodnt&hide_title=true&show_icons=true&theme=vue-dark" />
-</p>
+<br />
  
-##### Blog
-- https://rodnt.github.io/
+<strong>CVES</strong>
+<p>
+<ul>
+    <li><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-30140"><img alt="Website" src="https://img.shields.io/badge/CVE.2021.30140-000000?style=flat&logo=CVE"></a></li>
+    <li><a href="https://nvd.nist.gov/vuln/detail/CVE-2020-35581"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.35581-000000?style=flat&logo=CVE"></a></li>
+    <li><a href="https://nvd.nist.gov/vuln/detail/CVE-2020-35582"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.35582-000000?style=flat&logo=CVE"></a></li>
+    <li><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-25790"><img alt="Website" src="https://img.shields.io/badge/CVE.2020.25790-000000?style=flat&logo=CVE"></a></li>
+    <li><a href="https://nvd.nist.gov/vuln/detail/CVE-2019-13364"><img alt="Website" src="https://img.shields.io/badge/CVE.2019.13364-000000?style=flat&logo=CVE"></a></li>
+    <li><a href="https://nvd.nist.gov/vuln/detail/CVE-2019-13363"><img alt="Website" src="https://img.shields.io/badge/CVE.2019.13363-000000?style=flat&logo=CVE"></a></li>
+</ul>
+<br>
 
-##### Hall of Fame (rodolfo tavares, rod tav)
-- https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
-- https://www.informatica.com/trust-center/security-researcher-hall-of-fame.html
+<p> Misc ~ Hall of fames infosec ~ </p>
+<ul>
+    <li> https://packetstormsecurity.com/files/author/14480/ </li>
+    <li> https://www.informatica.com/trust-center/security-researcher-hall-of-fame.html </li>
+    <li> https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html </li>
+</ul>
 
-
-##### Security Research Profile   
-* Packet Storm profile
-	- https://packetstormsecurity.com/files/author/14480/
+</p>
